@@ -15,11 +15,7 @@ I believe that data tells a story, and effective analysis helps uncover that sto
 - **Microsoft Power BI:** Data visualization, dashboard development, and reporting.
 - **Python:** Programming fundamentals and data analysis.
 
-## Portfolio Projects
-
-### Customer Dashboard
-
-A dashboard project focused on presenting customer data in a clear and organized visual format to make important information easier to understand.
+## Portfolio Project
 
 ### Sales Analysis Dashboard
 
